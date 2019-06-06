@@ -1,0 +1,9 @@
+@import './reset';
+@import './settings';
+@import './base';
+
+@import '../components/LoadingPage.component/loadingPage.component';
+@import '../components/header.component/header.component';
+@import '../components/apps.component/apps.component';
+@import '../components/main.component/main.component';
+
